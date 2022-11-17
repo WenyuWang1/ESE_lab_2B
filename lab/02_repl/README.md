@@ -1,4 +1,3 @@
-
 #include "pico/stdlib.h"
 #include <stdio.h>
 #include <stdlib.h>
@@ -132,5 +131,4 @@ int main() {
                 status.counter_value = 0;
             }
         }
-
 
