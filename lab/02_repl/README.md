@@ -1,3 +1,6 @@
+# ese5190-lab2b-Part2
+## Still confusing about how to set up successfully, this is my current code:
+```
 #include "pico/stdlib.h"
 #include <stdio.h>
 #include <stdlib.h>
@@ -131,4 +134,6 @@ int main() {
                 status.counter_value = 0;
             }
         }
+```
+
 
